@@ -27,3 +27,4 @@ match opcao:
             print("Erro: Não é possível dividir por zero!")
     case _:
         print("Opção inválida! Escolha um número de 1 a 4.")
+print("teste de commit")
