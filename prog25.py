@@ -7,3 +7,4 @@ elif valor2 > valor1:
 else:
     print("Os dois valores são iguais!")
 print("Teste de PULL")
+print("Teste de PUSH pelo vscode")
