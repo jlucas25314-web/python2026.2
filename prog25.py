@@ -8,3 +8,4 @@ else:
     print("Os dois valores são iguais!")
 print("Teste de PULL")
 print("Teste de PUSH pelo vscode")
+print("Teste de PUSH pelo vscode 2")
