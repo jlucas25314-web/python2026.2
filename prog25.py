@@ -6,3 +6,4 @@ elif valor2 > valor1:
     print(f"O maior valor é: {valor2}")
 else:
     print("Os dois valores são iguais!")
+print("Teste de PULL")
